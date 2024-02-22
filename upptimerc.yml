@@ -1,0 +1,8 @@
+owner: JovanneOlalo # GitHub username
+repo: upptime2 # GitHub repository name
+sites: # List of endpoints to track
+  - name: ESG Playbook
+    url: https://esg-playbook-app.web.app 
+status-website: # Status website (optional)
+  baseUrl: /upptime2
+  name: ESG Playbook # Status website title
