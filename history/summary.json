@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ESG Playbook",
+    "url": "https://esg-playbook-app.web.app",
+    "icon": "https://icons.duckduckgo.com/ip3/esg-playbook-app.web.app.ico",
+    "slug": "esg-playbook",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
+    "dailyMinutesDown": {}
+  }
+]
